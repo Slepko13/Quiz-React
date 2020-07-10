@@ -1,0 +1,24 @@
+.Start {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    flex: 1;
+
+    .title {
+        font-size: 36px;
+        color: #ffffff;
+        @media screen and (max-width: 700px) {
+            font-size: 24px;
+        }
+    }
+    .button__wrapper {
+        .btn {
+            .link {
+                color: #ffffff;
+                text-decoration: none;
+            }
+        }
+    }
+}

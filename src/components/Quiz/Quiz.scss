@@ -1,0 +1,54 @@
+.Quiz {
+    @media screen and (max-width: 425px) {
+        padding: 0;
+    }
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding: 0 50px;
+    .title {
+        @media screen and (max-width: 425px) {
+            font-size: 18px;
+        }
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .form {
+        font-size: 28px;
+        display: flex;
+        .form-check {
+            margin: 10px;
+            .form-check-input {
+                width: 25px;
+                height: 25px;
+                cursor: pointer;
+            }
+            .form-check-label {
+                margin-left: 20px;
+                color: blue;
+                cursor: pointer;
+            }
+        }
+    }
+    .bottom__wrapper {
+        display: flex;
+        @media screen and (min-width: 427px) {
+            align-self: flex-end;
+        }
+        .prog {
+            margin-right: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .result__button {
+            .result__link {
+                color: #ffffff;
+                text-decoration: none;
+            }
+        }
+    }
+}
