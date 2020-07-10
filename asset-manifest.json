@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/multiple-choise-quiz/static/css/main.779610c3.chunk.css",
-    "main.js": "/multiple-choise-quiz/static/js/main.068b13dd.chunk.js",
-    "main.js.map": "/multiple-choise-quiz/static/js/main.068b13dd.chunk.js.map",
-    "runtime-main.js": "/multiple-choise-quiz/static/js/runtime-main.b7cec39d.js",
-    "runtime-main.js.map": "/multiple-choise-quiz/static/js/runtime-main.b7cec39d.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/multiple-choise-quiz/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.db7bdcdc.chunk.js": "/multiple-choise-quiz/static/js/2.db7bdcdc.chunk.js",
-    "static/js/2.db7bdcdc.chunk.js.map": "/multiple-choise-quiz/static/js/2.db7bdcdc.chunk.js.map",
-    "index.html": "/multiple-choise-quiz/index.html",
-    "precache-manifest.fd090e8ffa9ddb18178360cf1cd6d975.js": "/multiple-choise-quiz/precache-manifest.fd090e8ffa9ddb18178360cf1cd6d975.js",
-    "service-worker.js": "/multiple-choise-quiz/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/multiple-choise-quiz/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.779610c3.chunk.css.map": "/multiple-choise-quiz/static/css/main.779610c3.chunk.css.map",
-    "static/js/2.db7bdcdc.chunk.js.LICENSE.txt": "/multiple-choise-quiz/static/js/2.db7bdcdc.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/multiple-choise-quiz/static/media/1.3088c808.png",
-    "static/media/2.png": "/multiple-choise-quiz/static/media/2.0476b393.png",
-    "static/media/3.png": "/multiple-choise-quiz/static/media/3.6f751ab4.png",
-    "static/media/4.png": "/multiple-choise-quiz/static/media/4.b2286b0f.png",
-    "static/media/5.png": "/multiple-choise-quiz/static/media/5.d9868c42.png",
-    "static/media/logo.svg": "/multiple-choise-quiz/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Quiz-React/static/css/main.779610c3.chunk.css",
+    "main.js": "/Quiz-React/static/js/main.f0160178.chunk.js",
+    "main.js.map": "/Quiz-React/static/js/main.f0160178.chunk.js.map",
+    "runtime-main.js": "/Quiz-React/static/js/runtime-main.fb20c628.js",
+    "runtime-main.js.map": "/Quiz-React/static/js/runtime-main.fb20c628.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Quiz-React/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db7bdcdc.chunk.js": "/Quiz-React/static/js/2.db7bdcdc.chunk.js",
+    "static/js/2.db7bdcdc.chunk.js.map": "/Quiz-React/static/js/2.db7bdcdc.chunk.js.map",
+    "index.html": "/Quiz-React/index.html",
+    "precache-manifest.c775a0ebc15bd6f9b60e7531313ff3f3.js": "/Quiz-React/precache-manifest.c775a0ebc15bd6f9b60e7531313ff3f3.js",
+    "service-worker.js": "/Quiz-React/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Quiz-React/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.779610c3.chunk.css.map": "/Quiz-React/static/css/main.779610c3.chunk.css.map",
+    "static/js/2.db7bdcdc.chunk.js.LICENSE.txt": "/Quiz-React/static/js/2.db7bdcdc.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/Quiz-React/static/media/1.3088c808.png",
+    "static/media/2.png": "/Quiz-React/static/media/2.0476b393.png",
+    "static/media/3.png": "/Quiz-React/static/media/3.6f751ab4.png",
+    "static/media/4.png": "/Quiz-React/static/media/4.b2286b0f.png",
+    "static/media/5.png": "/Quiz-React/static/media/5.d9868c42.png",
+    "static/media/logo.svg": "/Quiz-React/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7cec39d.js",
+    "static/js/runtime-main.fb20c628.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.db7bdcdc.chunk.js",
     "static/css/main.779610c3.chunk.css",
-    "static/js/main.068b13dd.chunk.js"
+    "static/js/main.f0160178.chunk.js"
   ]
 }
